@@ -17,8 +17,7 @@
   - History appears in the right-side panel.
   - Click **Clear History** to remove all past calculations.  
 - **Visual Preview**:  
-  `(https://github.com/user-attachments/assets/3292187f-864f-417e-9ad6-9cc19c09231e)
-)`
+  `(https://github.com/user-attachments/assets/3292187f-864f-417e-9ad6-9cc19c09231e)`
 
 ### 2. ⌨️ Keyboard Input Support
 
@@ -37,8 +36,7 @@
 - **What It Does**: Enables switching between light and dark themes.  
 - **Persistence**: Saves the selected theme in `localStorage`.  
 - **Visual Preview**:  
-  `(https://github.com/user-attachments/assets/3a8a5e8c-8717-4642-8e88-3beb9e6a7c7a)
-shot.png)`
+  `(https://github.com/user-attachments/assets/3a8a5e8c-8717-4642-8e88-3beb9e6a7c7a)`
 
 ## 🛠️ Development Details
 
