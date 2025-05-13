@@ -55,7 +55,7 @@
 Clone the repository:
 
 ```bash
-git clone https://github.com/zeyadmahfouzz/react-calculator.git
+git clone https://github.com/YousefWaleed2022/react-calculator.git
 cd react-calculator
 ```
 
