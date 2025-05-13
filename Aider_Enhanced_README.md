@@ -23,13 +23,6 @@
 - **What It Does**: Allows you to use your keyboard to perform calculations.  
 - **Supported Keys**:  `0-9`      | Input numbers -- `+ - * /`  | Operators -- `Enter`    | Evaluate -- `Escape`   | Clear screen
 
-  | Key        | Action         |
-  |------------|----------------|
-  | `0-9`      | Input numbers  |
-  | `+ - * /`  | Operators       |
-  | `Enter`    | Evaluate        |
-  | `Escape`   | Clear screen    |
-
 ### 3. 🌙 Dark Mode Toggle
 
 - **What It Does**: Enables switching between light and dark themes.  
